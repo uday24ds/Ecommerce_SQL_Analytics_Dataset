@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,cost_price
+2001,Accessories Product 001,Electronics,Accessories,7983.98
+2002,Makeup Product 002,Beauty,Makeup,12598.02
+2003,Men's Clothing Product 003,Fashion,Men's Clothing,17564.86
+2004,Academic Product 004,Books,Academic,14181.25
+2005,Fitness Product 005,Sports,Fitness,8189.39
+2006,Outdoor Product 006,Sports,Outdoor,16692.76
+2007,Snacks Product 007,Grocery,Snacks,14836.29
+2008,Outdoor Product 008,Sports,Outdoor,4206.21
+2009,Audio Product 009,Electronics,Audio,1289.14
+2010,Beverages Product 010,Grocery,Beverages,11425.21
+2011,Bags Product 011,,Bags,6478.29
+2012,Accessories Product 012,Electronics,Accessories,16092.21
+2013,Academic Product 013,Books,Academic,3624.3
+2014,Furniture Product 014,Home & Kitchen,Furniture,931.9
+2015,Fitness Product 015,,Fitness,12342.42
+2016,Travel Accessories Product 016,Accessories,Travel Accessories,17420.05
+2017,Skincare Product 017,Beauty,Skincare,6762.71
+2018,Laptop Product 018,,Laptop,3532.06
+2019,Skincare Product 019,Beauty,Skincare,8641.33
+2020,Kitchen Product 020,Home & Kitchen,Kitchen,12106.18
+2021,Jewelry Product 021,Accessories,Jewelry,15013.31
+2022,Academic Product 022,Books,Academic,5725.74
+2023,Beverages Product 023,Grocery,Beverages,14515.04
+2024,Snacks Product 024,Grocery,Snacks,5296.66
+2025,Footwear Product 025,Fashion,Footwear,2644.58
+2026,Staples Product 026,Grocery,Staples,-7013.4
+2027,Beverages Product 027,Grocery,Beverages,12017.59
+2028,Makeup Product 028,Beauty,Makeup,14086.01
+2029,Outdoor Product 029,Sports,Outdoor,10302.03
+2030,Mobile Product 030,Electronics,Mobile,2194.36
+2031,Makeup Product 031,Beauty,Makeup,8559.07
+2032,Snacks Product 032,Grocery,Snacks,13805.23
+2033,Outdoor Product 033,Sports,Outdoor,10031.39
+2034,Audio Product 034,Electronics,Audio,5575.51
+2035,Fitness Product 035,Sports,Fitness,-2644.58
+2036,Watches Product 036,Accessories,Watches,7442.24
+2037,Travel Accessories Product 037,Accessories,Travel Accessories,4325.82
+2038,Staples Product 038,Grocery,Staples,5172.7
+2039,Watches Product 039,Accessories,Watches,11965.21
+2040,Footwear Product 040,Fashion,Footwear,14142.58
+2041,Jewelry Product 041,Accessories,Jewelry,7404.01
+2042,Makeup Product 042,Beauty,Makeup,3130.47
+2043,Kitchen Product 043,Home & Kitchen,Kitchen,1757.35
+2044,Beverages Product 044,Grocery,Beverages,8394.51
+2045,Fiction Product 045,Books,Fiction,9093.65
+2046,Watches Product 046,Accessories,Watches,12579.32
+2047,Haircare Product 047,Beauty,Haircare,6951.23
+2048,Women's Clothing Product 048,Fashion,Women's Clothing,11400.54
+2049,Outdoor Product 049,Sports,Outdoor,1714.55
+2050,Kitchen Product 050,Home & Kitchen,Kitchen,17319.87
+2051,Home Decor Product 051,Home & Kitchen,Home Decor,12639.77
+2052,Skincare Product 052,Beauty,Skincare,17449.8
+2053,Home Decor Product 053,Home & Kitchen,Home Decor,12946.49
+2054,Snacks Product 054,Grocery,Snacks,5009.51
+2055,Mobile Product 055,Electronics,Mobile,16261.45
+2056,Women's Clothing Product 056,Fashion,Women's Clothing,3762.19
+2057,Fiction Product 057,Books,Fiction,10489.07
+2058,Fitness Product 058,Sports,Fitness,15440.56
+2059,Accessories Product 059,Electronics,Accessories,12992.41
+2060,Non-Fiction Product 060,Books,Non-Fiction,11347.46
+2061,Footwear Product 061,Fashion,Footwear,11749.76
+2062,Fiction Product 062,Books,Fiction,7572.16
+2063,Staples Product 063,Grocery,Staples,8967.74
+2064,Women's Clothing Product 064,Fashion,Women's Clothing,2729.76
+2065,Fiction Product 065,Books,Fiction,10639.46
+2066,Staples Product 066,Grocery,Staples,16663.39
+2067,Jewelry Product 067,Accessories,Jewelry,6341.63
+2068,Outdoor Product 068,Sports,Outdoor,557.05
+2069,Bags Product 069,Fashion,Bags,8759.12
+2070,Makeup Product 070,Beauty,Makeup,1626.73
+2071,Furniture Product 071,Home & Kitchen,Furniture,8909.12
+2072,Makeup Product 072,Beauty,Makeup,10355.35
+2073,Outdoor Product 073,Sports,Outdoor,4915.52
+2074,Watches Product 074,Accessories,Watches,9444.0
+2075,Snacks Product 075,Grocery,Snacks,535.78
+2076,Home Decor Product 076,,Home Decor,16146.47
+2077,Fitness Product 077,Sports,Fitness,10039.55
+2078,Kitchen Product 078,Home & Kitchen,Kitchen,12149.49
+2079,Laptop Product 079,Electronics,Laptop,11920.69
+2080,Academic Product 080,Books,Academic,13870.36
+2081,Kitchen Product 081,Home & Kitchen,Kitchen,16500.81
+2082,Watches Product 082,Accessories,Watches,817.81
+2083,Footwear Product 083,Fashion,Footwear,6770.96
+2084,Home Decor Product 084,Home & Kitchen,Home Decor,14577.29
+2085,Watches Product 085,Accessories,Watches,17159.25
+2086,Fiction Product 086,Books,Fiction,9343.77
+2087,Watches Product 087,Accessories,Watches,16858.38
+2088,Men's Clothing Product 088,Fashion,Men's Clothing,951.65
+2089,Furniture Product 089,Home & Kitchen,Furniture,17863.9
+2090,Bags Product 090,Fashion,Bags,13512.65
+2091,Beverages Product 091,Grocery,Beverages,16098.02
+2092,Audio Product 092,Electronics,Audio,5789.33
+2093,Accessories Product 093,Electronics,Accessories,11960.65
+2094,Haircare Product 094,Beauty,Haircare,1836.23
+2095,Academic Product 095,Books,Academic,4834.92
+2096,Accessories Product 096,Electronics,Accessories,4451.32
+2097,Mobile Product 097,Electronics,Mobile,14985.36
+2098,Watches Product 098,Accessories,Watches,3349.94
+2099,Furniture Product 099,Home & Kitchen,Furniture,15760.93
+2100,Mobile Product 100,Electronics,Mobile,5689.28
+2101,Travel Accessories Product 101,Accessories,Travel Accessories,17497.1
+2102,Haircare Product 102,Beauty,Haircare,2718.57
+2103,Watches Product 103,Accessories,Watches,4249.36
+2104,Kitchen Product 104,Home & Kitchen,Kitchen,12246.21
+2105,Watches Product 105,Accessories,Watches,9187.99
+2106,Travel Accessories Product 106,Accessories,Travel Accessories,10522.93
+2107,Skincare Product 107,Beauty,Skincare,14503.62
+2108,Audio Product 108,Electronics,Audio,13340.86
+2109,Staples Product 109,Grocery,Staples,2359.01
+2110,Sportswear Product 110,Sports,Sportswear,7246.77
+2111,Watches Product 111,Accessories,Watches,8871.23
+2112,Outdoor Product 112,Sports,Outdoor,17207.88
+2113,Fitness Product 113,Sports,Fitness,16657.83
+2114,Skincare Product 114,Beauty,Skincare,10060.29
+2115,Footwear Product 115,Fashion,Footwear,2040.27
+2116,Fiction Product 116,Books,Fiction,7631.19
+2117,Accessories Product 117,,Accessories,10789.36
+2118,Bags Product 118,Fashion,Bags,14507.84
+2119,Haircare Product 119,Beauty,Haircare,14158.03
+2120,Staples Product 120,Grocery,Staples,2098.22
+2121,Home Decor Product 121,Home & Kitchen,Home Decor,14373.19
+2122,Skincare Product 122,Beauty,Skincare,9624.24
+2123,Snacks Product 123,Grocery,Snacks,15639.14
+2124,Snacks Product 124,Grocery,Snacks,7514.4
+2125,Laptop Product 125,Electronics,Laptop,7752.0
+2126,Audio Product 126,Electronics,Audio,15634.71
+2127,Furniture Product 127,,Furniture,4573.94
+2128,Kitchen Product 128,Home & Kitchen,Kitchen,13466.35
+2129,Beverages Product 129,Grocery,Beverages,2029.21
+2130,Watches Product 130,Accessories,Watches,10760.64
+2131,Kitchen Product 131,Home & Kitchen,Kitchen,14870.26
+2132,Kitchen Product 132,Home & Kitchen,Kitchen,2718.11
+2133,Travel Accessories Product 133,Accessories,Travel Accessories,3104.74
+2134,Women's Clothing Product 134,Fashion,Women's Clothing,2892.0
+2135,Skincare Product 135,Beauty,Skincare,527.49
+2136,Fiction Product 136,Books,Fiction,3267.35
+2137,Staples Product 137,Grocery,Staples,10701.92
+2138,Sportswear Product 138,Sports,Sportswear,7176.3
+2139,Staples Product 139,Grocery,Staples,9155.79
+2140,Academic Product 140,Books,Academic,15342.7
+2141,Fitness Product 141,Sports,Fitness,3389.75
+2142,Watches Product 142,Accessories,Watches,4601.57
+2143,Non-Fiction Product 143,Books,Non-Fiction,7580.28
+2144,Kitchen Product 144,Home & Kitchen,Kitchen,6819.01
+2145,Jewelry Product 145,Accessories,Jewelry,1964.84
+2146,Accessories Product 146,Electronics,Accessories,1077.52
+2147,Makeup Product 147,Beauty,Makeup,1919.17
+2148,Beverages Product 148,Grocery,Beverages,16262.36
+2149,Bags Product 149,Fashion,Bags,14466.16
+2150,Sportswear Product 150,Sports,Sportswear,11618.33
+2151,Sportswear Product 151,Sports,Sportswear,2551.76
+2152,Snacks Product 152,Grocery,Snacks,9328.88
+2153,Travel Accessories Product 153,Accessories,Travel Accessories,8410.97
+2154,Snacks Product 154,Grocery,Snacks,11566.2
+2155,Women's Clothing Product 155,Fashion,Women's Clothing,2644.87
+2156,Haircare Product 156,Beauty,Haircare,7591.48
+2157,Fitness Product 157,Sports,Fitness,-172.01
+2158,Outdoor Product 158,Sports,Outdoor,5995.8
+2159,Haircare Product 159,Beauty,Haircare,12390.52
+2160,Women's Clothing Product 160,Fashion,Women's Clothing,17087.11
+2161,Academic Product 161,Books,Academic,8734.25
+2162,Staples Product 162,Grocery,Staples,9707.51
+2163,Travel Accessories Product 163,Accessories,Travel Accessories,11798.68
+2164,Bags Product 164,Fashion,Bags,9659.09
+2165,Snacks Product 165,Grocery,Snacks,5293.58
+2166,Footwear Product 166,Fashion,Footwear,3762.92
+2167,Sportswear Product 167,Sports,Sportswear,15513.84
+2168,Watches Product 168,Accessories,Watches,11116.68
+2169,Fiction Product 169,Books,Fiction,13104.02
+2170,Fitness Product 170,Sports,Fitness,16856.53
+2171,Fiction Product 171,Books,Fiction,17266.01
+2172,Bags Product 172,Fashion,Bags,10747.22
+2173,Makeup Product 173,Beauty,Makeup,14342.8
+2174,Travel Accessories Product 174,Accessories,Travel Accessories,4672.89
+2175,Non-Fiction Product 175,Books,Non-Fiction,1846.63
+2176,Outdoor Product 176,Sports,Outdoor,3207.55
+2177,Footwear Product 177,Fashion,Footwear,10367.88
+2178,Haircare Product 178,Beauty,Haircare,9478.98
+2179,Academic Product 179,Books,Academic,14416.52
+2180,Outdoor Product 180,Sports,Outdoor,10852.74
+2181,Bags Product 181,Fashion,Bags,2287.24
+2182,Staples Product 182,Grocery,Staples,1715.61
+2183,Haircare Product 183,Beauty,Haircare,7622.16
+2184,Travel Accessories Product 184,Accessories,Travel Accessories,12131.48
+2185,Non-Fiction Product 185,Books,Non-Fiction,16185.84
+2186,Beverages Product 186,Grocery,Beverages,4979.05
+2187,Snacks Product 187,Grocery,Snacks,-11715.88
+2188,Kitchen Product 188,Home & Kitchen,Kitchen,2787.93
+2189,Accessories Product 189,Electronics,Accessories,7966.59
+2190,Non-Fiction Product 190,Books,Non-Fiction,13174.89
+2191,Footwear Product 191,Fashion,Footwear,16860.1
+2192,Home Decor Product 192,Home & Kitchen,Home Decor,8706.75
+2193,Women's Clothing Product 193,Fashion,Women's Clothing,17761.37
+2194,Audio Product 194,Electronics,Audio,17128.82
+2195,Skincare Product 195,Beauty,Skincare,15332.03
+2196,Jewelry Product 196,Accessories,Jewelry,2326.3
+2197,Haircare Product 197,Beauty,Haircare,12396.82
+2198,Fitness Product 198,,Fitness,8259.58
+2199,Academic Product 199,,Academic,5422.16
+2200,Jewelry Product 200,Accessories,Jewelry,8045.31
+2201,Laptop Product 201,Electronics,Laptop,16544.19
+2202,Academic Product 202,Books,Academic,-14086.01
+2203,Makeup Product 203,Beauty,Makeup,15843.72
+2204,Fiction Product 204,,Fiction,15088.6
+2205,Mobile Product 205,Electronics,Mobile,17984.02
+2206,Audio Product 206,Electronics,Audio,11754.73
+2207,Fitness Product 207,Sports,Fitness,16162.05
+2208,Staples Product 208,Grocery,Staples,4448.78
+2209,Skincare Product 209,Beauty,Skincare,14015.31
+2210,Staples Product 210,Grocery,Staples,16404.89
+2211,Furniture Product 211,Home & Kitchen,Furniture,-6198.57
+2212,Mobile Product 212,Electronics,Mobile,1072.09
+2213,Snacks Product 213,Grocery,Snacks,14456.45
+2214,Watches Product 214,Accessories,Watches,15311.95
+2215,Men's Clothing Product 215,Fashion,Men's Clothing,14447.2
+2216,Travel Accessories Product 216,Accessories,Travel Accessories,13932.13
+2217,Beverages Product 217,Grocery,Beverages,15107.95
+2218,Skincare Product 218,Beauty,Skincare,3751.81
+2219,Mobile Product 219,Electronics,Mobile,9155.88
+2220,Sportswear Product 220,Sports,Sportswear,11395.71
+2221,Accessories Product 221,Electronics,Accessories,2920.55
+2222,Beverages Product 222,Grocery,Beverages,3595.79
+2223,Laptop Product 223,,Laptop,12821.8
+2224,Sportswear Product 224,Sports,Sportswear,11066.05
+2225,Fitness Product 225,Sports,Fitness,11151.12
+2226,Mobile Product 226,Electronics,Mobile,15932.0
+2227,Makeup Product 227,Beauty,Makeup,3240.33
+2228,Kitchen Product 228,Home & Kitchen,Kitchen,3426.07
+2229,Makeup Product 229,Beauty,Makeup,-1077.52
+2230,Sportswear Product 230,Sports,Sportswear,11509.89
+2231,Snacks Product 231,Grocery,Snacks,2740.58
+2232,Bags Product 232,Fashion,Bags,5528.97
+2233,Haircare Product 233,Beauty,Haircare,12641.0
+2234,Furniture Product 234,Home & Kitchen,Furniture,16939.61
+2235,Men's Clothing Product 235,Fashion,Men's Clothing,9224.1
+2236,Non-Fiction Product 236,Books,Non-Fiction,8613.91
+2237,Men's Clothing Product 237,Fashion,Men's Clothing,2543.59
+2238,Watches Product 238,Accessories,Watches,5588.98
+2239,Outdoor Product 239,Sports,Outdoor,11056.13
+2240,Haircare Product 240,Beauty,Haircare,7500.82
+2241,Women's Clothing Product 241,Fashion,Women's Clothing,4034.67
+2242,Jewelry Product 242,Accessories,Jewelry,5809.18
+2243,Watches Product 243,Accessories,Watches,7618.44
+2244,Haircare Product 244,,Haircare,4176.83
+2245,Audio Product 245,Electronics,Audio,10249.03
+2246,Sportswear Product 246,Sports,Sportswear,11715.88
+2247,Outdoor Product 247,Sports,Outdoor,-12342.42
+2248,Bags Product 248,Fashion,Bags,9952.23
+2249,Women's Clothing Product 249,Fashion,Women's Clothing,11324.32
+2250,Outdoor Product 250,Sports,Outdoor,9302.4
+2251,Beverages Product 251,Grocery,Beverages,15972.29
+2252,Bags Product 252,Fashion,Bags,9139.85
+2253,Non-Fiction Product 253,Books,Non-Fiction,14427.69
+2254,Women's Clothing Product 254,Fashion,Women's Clothing,15097.28
+2255,Haircare Product 255,Beauty,Haircare,2218.04
+2256,Mobile Product 256,Electronics,Mobile,15179.58
+2257,Staples Product 257,Grocery,Staples,5158.91
+2258,Outdoor Product 258,Sports,Outdoor,3237.95
+2259,Fiction Product 259,Books,Fiction,13407.06
+2260,Watches Product 260,Accessories,Watches,14915.05
+2261,Academic Product 261,Books,Academic,6794.87
+2262,Fiction Product 262,Books,Fiction,10875.0
+2263,Fiction Product 263,Books,Fiction,6663.81
+2264,Sportswear Product 264,Sports,Sportswear,17919.04
+2265,Makeup Product 265,Beauty,Makeup,5700.66
+2266,Beverages Product 266,Grocery,Beverages,12741.5
+2267,Snacks Product 267,Grocery,Snacks,11589.86
+2268,Kitchen Product 268,Home & Kitchen,Kitchen,3881.68
+2269,Snacks Product 269,Grocery,Snacks,3072.96
+2270,Fiction Product 270,Books,Fiction,15078.03
+2271,Travel Accessories Product 271,Accessories,Travel Accessories,10074.05
+2272,Bags Product 272,Fashion,Bags,17827.24
+2273,Fiction Product 273,Books,Fiction,8151.18
+2274,Snacks Product 274,Grocery,Snacks,1578.88
+2275,Beverages Product 275,Grocery,Beverages,7892.96
+2276,Haircare Product 276,Beauty,Haircare,2839.51
+2277,Kitchen Product 277,Home & Kitchen,Kitchen,16341.8
+2278,Watches Product 278,Accessories,Watches,4306.41
+2279,Women's Clothing Product 279,Fashion,Women's Clothing,8900.03
+2280,Jewelry Product 280,Accessories,Jewelry,8955.23
+2281,Mobile Product 281,Electronics,Mobile,4499.46
+2282,Beverages Product 282,Grocery,Beverages,11530.96
+2283,Outdoor Product 283,Sports,Outdoor,12113.13
+2284,Beverages Product 284,Grocery,Beverages,1187.24
+2285,Non-Fiction Product 285,Books,Non-Fiction,9780.56
+2286,Jewelry Product 286,Accessories,Jewelry,15223.95
+2287,Furniture Product 287,Home & Kitchen,Furniture,13870.0
+2288,Academic Product 288,Books,Academic,9160.53
+2289,Makeup Product 289,Beauty,Makeup,10630.16
+2290,Accessories Product 290,Electronics,Accessories,6229.55
+2291,Outdoor Product 291,Sports,Outdoor,9635.69
+2292,Fitness Product 292,Sports,Fitness,7264.16
+2293,Travel Accessories Product 293,Accessories,Travel Accessories,11410.36
+2294,Skincare Product 294,Beauty,Skincare,6198.57
+2295,Kitchen Product 295,Home & Kitchen,Kitchen,593.09
+2296,Sportswear Product 296,Sports,Sportswear,8150.5
+2297,Skincare Product 297,Beauty,Skincare,10832.82
+2298,Fitness Product 298,Sports,Fitness,5112.69
+2299,Footwear Product 299,Fashion,Footwear,11462.79
+2300,Academic Product 300,Books,Academic,11223.39
+2301,Jewelry Product 301,Accessories,Jewelry,13741.57
+2302,Academic Product 302,Books,Academic,13014.42
+2303,Home Decor Product 303,Home & Kitchen,Home Decor,14108.79
+2304,Makeup Product 304,Beauty,Makeup,2186.76
+2305,Sportswear Product 305,Sports,Sportswear,8005.58
+2306,Non-Fiction Product 306,Books,Non-Fiction,11825.73
+2307,Makeup Product 307,Beauty,Makeup,17724.72
+2308,Women's Clothing Product 308,Fashion,Women's Clothing,13247.5
+2309,Travel Accessories Product 309,Accessories,Travel Accessories,6334.9
+2310,Mobile Product 310,Electronics,Mobile,880.9
+2311,Sportswear Product 311,Sports,Sportswear,8891.14
+2312,Travel Accessories Product 312,Accessories,Travel Accessories,8449.78
+2313,Home Decor Product 313,Home & Kitchen,Home Decor,7496.63
+2314,Accessories Product 314,Electronics,Accessories,1664.02
+2315,Footwear Product 315,Fashion,Footwear,14466.77
+2316,Home Decor Product 316,Home & Kitchen,Home Decor,14833.11
+2317,Men's Clothing Product 317,,Men's Clothing,6802.74
+2318,Watches Product 318,Accessories,Watches,2100.69
+2319,Travel Accessories Product 319,Accessories,Travel Accessories,12881.66
+2320,Academic Product 320,Books,Academic,15598.4
+2321,Academic Product 321,Books,Academic,14445.56
+2322,Skincare Product 322,Beauty,Skincare,4336.45
+2323,Audio Product 323,Electronics,Audio,15467.54
+2324,Skincare Product 324,Beauty,Skincare,9336.13
+2325,Home Decor Product 325,Home & Kitchen,Home Decor,678.49
+2326,Snacks Product 326,Grocery,Snacks,16137.08
+2327,Sportswear Product 327,Sports,Sportswear,4392.2
+2328,Makeup Product 328,Beauty,Makeup,6362.36
+2329,Beverages Product 329,Grocery,Beverages,5486.14
+2330,Non-Fiction Product 330,Books,Non-Fiction,7235.38
+2331,Laptop Product 331,Electronics,Laptop,15975.05
+2332,Staples Product 332,,Staples,1663.89
+2333,Non-Fiction Product 333,Books,Non-Fiction,12959.86
+2334,Makeup Product 334,Beauty,Makeup,17977.57
+2335,Fiction Product 335,Books,Fiction,-11798.68
+2336,Fitness Product 336,,Fitness,10411.46
+2337,Bags Product 337,Fashion,Bags,12660.73
+2338,Non-Fiction Product 338,Books,Non-Fiction,7153.79
+2339,Makeup Product 339,Beauty,Makeup,9019.96
+2340,Kitchen Product 340,Home & Kitchen,Kitchen,6672.01
+2341,Mobile Product 341,Electronics,Mobile,3755.33
+2342,Fitness Product 342,Sports,Fitness,8241.05
+2343,Jewelry Product 343,Accessories,Jewelry,6277.77
+2344,Haircare Product 344,Beauty,Haircare,17271.89
+2345,Travel Accessories Product 345,Accessories,Travel Accessories,9804.29
+2346,Watches Product 346,Accessories,Watches,16161.39
+2347,Skincare Product 347,Beauty,Skincare,5957.37
+2348,Travel Accessories Product 348,Accessories,Travel Accessories,9602.33
+2349,Travel Accessories Product 349,Accessories,Travel Accessories,10694.79
+2350,Outdoor Product 350,Sports,Outdoor,5493.99
+2351,Staples Product 351,Grocery,Staples,5906.49
+2352,Men's Clothing Product 352,Fashion,Men's Clothing,-10873.1
+2353,Laptop Product 353,Electronics,Laptop,10172.59
+2354,Home Decor Product 354,Home & Kitchen,Home Decor,14141.26
+2355,Non-Fiction Product 355,Books,Non-Fiction,8651.19
+2356,Travel Accessories Product 356,Accessories,Travel Accessories,12191.56
+2357,Home Decor Product 357,Home & Kitchen,Home Decor,16260.59
+2358,Home Decor Product 358,Home & Kitchen,Home Decor,3455.45
+2359,Footwear Product 359,Fashion,Footwear,1968.81
+2360,Haircare Product 360,Beauty,Haircare,17202.99
+2361,Snacks Product 361,Grocery,Snacks,7878.56
+2362,Men's Clothing Product 362,Fashion,Men's Clothing,17281.98
+2363,Fiction Product 363,Books,Fiction,883.26
+2364,Mobile Product 364,Electronics,Mobile,1319.72
+2365,Jewelry Product 365,Accessories,Jewelry,9362.17
+2366,Staples Product 366,Grocery,Staples,1059.64
+2367,Staples Product 367,Grocery,Staples,7013.4
+2368,Staples Product 368,Grocery,Staples,12612.69
+2369,Skincare Product 369,Beauty,Skincare,5541.98
+2370,Haircare Product 370,Beauty,Haircare,7586.48
+2371,Men's Clothing Product 371,Fashion,Men's Clothing,2150.46
+2372,Makeup Product 372,Beauty,Makeup,172.01
+2373,Audio Product 373,Electronics,Audio,8887.61
+2374,Laptop Product 374,Electronics,Laptop,7849.19
+2375,Sportswear Product 375,Sports,Sportswear,15165.49
+2376,Fitness Product 376,Sports,Fitness,5906.45
+2377,Fitness Product 377,Sports,Fitness,8715.56
+2378,Beverages Product 378,Grocery,Beverages,4224.31
+2379,Fiction Product 379,Books,Fiction,16757.37
+2380,Skincare Product 380,Beauty,Skincare,8374.74
+2381,Beverages Product 381,Grocery,Beverages,2835.6
+2382,Fitness Product 382,,Fitness,2616.97
+2383,Accessories Product 383,Electronics,Accessories,-12612.69
+2384,Watches Product 384,Accessories,Watches,708.41
+2385,Men's Clothing Product 385,Fashion,Men's Clothing,11219.66
+2386,Skincare Product 386,Beauty,Skincare,10310.44
+2387,Footwear Product 387,Fashion,Footwear,15312.42
+2388,Skincare Product 388,Beauty,Skincare,15382.64
+2389,Outdoor Product 389,Sports,Outdoor,3054.97
+2390,Travel Accessories Product 390,Accessories,Travel Accessories,15420.52
+2391,Kitchen Product 391,Home & Kitchen,Kitchen,16550.47
+2392,Outdoor Product 392,Sports,Outdoor,10921.13
+2393,Travel Accessories Product 393,Accessories,Travel Accessories,6603.42
+2394,Academic Product 394,Books,Academic,-10489.07
+2395,Sportswear Product 395,Sports,Sportswear,10873.1
+2396,Kitchen Product 396,Home & Kitchen,Kitchen,7540.37
+2397,Fiction Product 397,,Fiction,1544.23
+2398,Staples Product 398,Grocery,Staples,-14915.05
+2399,Skincare Product 399,Beauty,Skincare,3103.96
+2400,Academic Product 400,Books,Academic,12789.43
+2401,Home Decor Product 401,Home & Kitchen,Home Decor,5811.18
+2402,Accessories Product 402,Electronics,Accessories,10749.88
+2403,Men's Clothing Product 403,Fashion,Men's Clothing,2715.38
+2404,Academic Product 404,Books,Academic,3237.05
+2405,Snacks Product 405,Grocery,Snacks,17853.17
+2406,Kitchen Product 406,Home & Kitchen,Kitchen,445.95
+2407,Sportswear Product 407,Sports,Sportswear,10585.8
+2408,Skincare Product 408,Beauty,Skincare,16166.84
+2409,Accessories Product 409,Electronics,Accessories,9721.18
+2410,Footwear Product 410,Fashion,Footwear,5026.39
+2411,Fiction Product 411,Books,Fiction,10763.03
+2412,Women's Clothing Product 412,Fashion,Women's Clothing,11995.64
+2413,Travel Accessories Product 413,Accessories,Travel Accessories,474.17
+2414,Audio Product 414,,Audio,4278.36
+2415,Beverages Product 415,Grocery,Beverages,4677.91
+2416,Outdoor Product 416,Sports,Outdoor,10030.7
+2417,Outdoor Product 417,Sports,Outdoor,12245.53
+2418,Sportswear Product 418,Sports,Sportswear,10269.84
+2419,Home Decor Product 419,Home & Kitchen,Home Decor,17703.99
+2420,Women's Clothing Product 420,Fashion,Women's Clothing,9335.31
+2421,Watches Product 421,Accessories,Watches,14359.11
+2422,Furniture Product 422,Home & Kitchen,Furniture,7432.11
+2423,Watches Product 423,Accessories,Watches,16030.37
+2424,Non-Fiction Product 424,Books,Non-Fiction,12334.08
+2425,Skincare Product 425,Beauty,Skincare,17313.66
+2426,Kitchen Product 426,Home & Kitchen,Kitchen,3711.82
+2427,Travel Accessories Product 427,Accessories,Travel Accessories,16439.6
+2428,Men's Clothing Product 428,Fashion,Men's Clothing,8535.95
+2429,Travel Accessories Product 429,Accessories,Travel Accessories,15828.83
+2430,Non-Fiction Product 430,Books,Non-Fiction,9378.8
+2431,Audio Product 431,Electronics,Audio,13200.78
+2432,Sportswear Product 432,Sports,Sportswear,10323.32
+2433,Skincare Product 433,Beauty,Skincare,16285.92
+2434,Academic Product 434,Books,Academic,-15097.28
+2435,Fitness Product 435,Sports,Fitness,3798.49
+2436,Makeup Product 436,Beauty,Makeup,563.05
+2437,Bags Product 437,Fashion,Bags,6882.03
+2438,Beverages Product 438,Grocery,Beverages,15993.14
+2439,Non-Fiction Product 439,Books,Non-Fiction,5846.51
+2440,Furniture Product 440,Home & Kitchen,Furniture,10520.66
+2441,Haircare Product 441,Beauty,Haircare,10891.68
+2442,Sportswear Product 442,Sports,Sportswear,8497.38
+2443,Mobile Product 443,Electronics,Mobile,6883.13
+2444,Furniture Product 444,Home & Kitchen,Furniture,2490.29
+2445,Kitchen Product 445,Home & Kitchen,Kitchen,12369.43
+2446,Laptop Product 446,Electronics,Laptop,17194.94
+2447,Fiction Product 447,Books,Fiction,1915.8
+2448,Makeup Product 448,,Makeup,15876.49
+2449,Kitchen Product 449,Home & Kitchen,Kitchen,3757.27
+2450,Watches Product 450,Accessories,Watches,9467.92
+2451,Laptop Product 451,Electronics,Laptop,4781.0
+2452,Men's Clothing Product 452,Fashion,Men's Clothing,8744.62
+2453,Accessories Product 453,Electronics,Accessories,11797.47
+2454,Non-Fiction Product 454,Books,Non-Fiction,2125.85
+2455,Women's Clothing Product 455,Fashion,Women's Clothing,5411.71
+2456,Home Decor Product 456,,Home Decor,15799.29
+2457,Beverages Product 457,Grocery,Beverages,17724.55
+2458,Sportswear Product 458,Sports,Sportswear,17161.03
+2459,Fitness Product 459,Sports,Fitness,2609.61
+2460,Watches Product 460,Accessories,Watches,10019.23
+2461,Skincare Product 461,Beauty,Skincare,15247.48
+2462,Non-Fiction Product 462,Books,Non-Fiction,9831.2
+2463,Fitness Product 463,Sports,Fitness,4670.61
+2464,Skincare Product 464,Beauty,Skincare,15357.01
+2465,Furniture Product 465,Home & Kitchen,Furniture,13272.06
+2466,Fiction Product 466,Books,Fiction,6776.86
+2467,Snacks Product 467,Grocery,Snacks,13716.27
+2468,Accessories Product 468,Electronics,Accessories,3841.62
+2469,Sportswear Product 469,Sports,Sportswear,2303.7
+2470,Bags Product 470,Fashion,Bags,1942.06
+2471,Skincare Product 471,Beauty,Skincare,15259.64
+2472,Fitness Product 472,Sports,Fitness,7532.19
+2473,Laptop Product 473,Electronics,Laptop,4527.87
+2474,Travel Accessories Product 474,Accessories,Travel Accessories,15346.32
+2475,Sportswear Product 475,Sports,Sportswear,6206.9
+2476,Outdoor Product 476,Sports,Outdoor,4584.05
+2477,Kitchen Product 477,Home & Kitchen,Kitchen,3028.39
+2478,Accessories Product 478,Electronics,Accessories,16000.6
+2479,Accessories Product 479,Electronics,Accessories,9390.26
+2480,Furniture Product 480,Home & Kitchen,Furniture,9605.96
+2481,Haircare Product 481,Beauty,Haircare,-14373.19
+2482,Kitchen Product 482,Home & Kitchen,Kitchen,2393.1
+2483,Bags Product 483,,Bags,8754.25
+2484,Beverages Product 484,Grocery,Beverages,3069.85
+2485,Furniture Product 485,Home & Kitchen,Furniture,3857.75
+2486,Women's Clothing Product 486,Fashion,Women's Clothing,686.47
+2487,Skincare Product 487,Beauty,Skincare,16515.74
+2488,Laptop Product 488,Electronics,Laptop,11005.11
+2489,Laptop Product 489,Electronics,Laptop,7298.05
+2490,Outdoor Product 490,Sports,Outdoor,3492.22
+2491,Beverages Product 491,Grocery,Beverages,14756.8
+2492,Beverages Product 492,Grocery,Beverages,8517.35
+2493,Staples Product 493,Grocery,Staples,16583.89
+2494,Non-Fiction Product 494,Books,Non-Fiction,1044.4
+2495,Jewelry Product 495,Accessories,Jewelry,14331.06
+2496,Non-Fiction Product 496,Books,Non-Fiction,13552.47
+2497,Academic Product 497,Books,Academic,3933.39
+2498,Bags Product 498,Fashion,Bags,7968.11
+2499,Furniture Product 499,Home & Kitchen,Furniture,191.21
+2500,Sportswear Product 500,Sports,Sportswear,5164.0
